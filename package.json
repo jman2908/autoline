@@ -13,7 +13,7 @@
     "build": "cd client && npm run build",
     "heroku-postbuild": "npm run build"
   },
-  "author": "Lily Simmons",
+  "author": "Jorge Mancero",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^4.1.0",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lilysimmons/google-books-search"
+    "url": "git+https://github.com/jman2908/autoline"
   },
   "bugs": {
-    "url": "https://github.com/lilysimmons/google-books-search/issues"
+    "url": "https://github.com/jman2908/autoline"
   },
-  "homepage": "https://github.com/lilysimmons/google-books-search#readme"
+  "homepage": "https://github.com/jman2908/autoline"
 }
